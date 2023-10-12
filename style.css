@@ -129,6 +129,7 @@ nav .menu {
 #connectButton {
   color: #FFD700;
   background: #8A2BE2;
+  display: flex;
   height: 55px;
   width: 170px;
   border-radius: 25px;
@@ -152,6 +153,7 @@ hover {
 #claimButton {
 	color: #FFD700;
   background: #8A2BE2;
+  display: flex;
   height: 55px;
   width: 170px;
   border-radius: 25px;
