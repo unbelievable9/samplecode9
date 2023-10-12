@@ -122,12 +122,12 @@ nav .menu {
 }
 .enter_lair {
 	margin-top: 50px;
-  display: flex;
+  display: block;
   text-align: center;
 }
 
 #connectButton {
-  color: #FFD700;
+  color: #0000FF;
   background: #00FF00;
   height: 55px;
   width: 170px;
@@ -150,7 +150,7 @@ hover {
 
 
 #claimButton {
-	color: #FFD700;
+  color: #0000FF;
   background: #00FF00;
   height: 55px;
   width: 170px;
