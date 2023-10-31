@@ -37,6 +37,7 @@ nav .menu {
 .menu ul li {
   list-style: none;
   margin-left: 7px;
+  text-decoration: none;
   color: #fff;
 }
 .menu ul li:first-child {
